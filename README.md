@@ -95,7 +95,7 @@ To use this project:
 
 ## About the Author / Contributor
 
-**Sayad Uddin Tahsin** (GitHub username: `sayad1711`) is a passionate software developer specializing in Python. With a focus on building data-driven applications and visualisations, Sayad brings together web-scraping, data processing, and dashboard creation to make financial and business insights accessible. If you appreciate this work and want to explore more of his projects, check his GitHub profile: [GitHub → Sayad-Uddin-Tahsin](https://github.com/Sayad-Uddin-Tahsin) ([github.com][1])
+**Muhammad Rayyan** (GitHub username: `sayad1711`) is a passionate Data Analysts specializing in Python. With a focus on building data-driven applications and visualisations, Sayad brings together web-scraping, data processing, and dashboard creation to make financial and business insights accessible. If you appreciate this work and want to explore more of his projects, check his GitHub profile: [GitHub → Muhammad-Rayyan](https://github.com/sayad1711) ([github.com][1])
 
 ## License & Credits
 
